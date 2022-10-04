@@ -1,11 +1,12 @@
 # Human-code
 
 PROBLEMA/SOLUZIONE: Comprare qualcosa su Amazon
+
 - Apro Google
 - Apro la barra di ricerca
 - Cerco Amazon
 - Click sul link Amazon
-- SE (la pagina ha salvato il mio account)
+- SE (la pagina non ha salvato il mio account)
     - Allora effettuo l'accesso
 - ALTRIMENTI (cerco la lampada)
 - controllo SE (l'articolo ha Prime)
