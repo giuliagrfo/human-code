@@ -12,7 +12,7 @@ PROBLEMA/SOLUZIONE: Comprare qualcosa su Amazon
 - ALTRIMENTI (cerco la lampada)
 
 - controllo SE l'articolo ha Prime
-    - SE si (effettua l'ordine)
+    - SE si (lo aggiungo al carrello)
     - ALTRIMENTI (cerco la stilografica)
 
     - Controllo il prezzo
